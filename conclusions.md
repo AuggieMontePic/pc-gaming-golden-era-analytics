@@ -1,5 +1,5 @@
 # Conclusions
-## PC Gaming Golden Era Analytics — The Story the Data Told
+## PC Gaming Golden Era Analytics
 
 ---
 
