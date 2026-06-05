@@ -14,7 +14,7 @@ The pipeline follows a classic **Extract → Transform → Load → Visualise** 
 | **Extract** | Kaggle / CSV | Raw CSVs ingested into Google BigQuery |
 | **Transform** | BigQuery SQL | Cleaning, deduplication, enrichment, index calculation |
 | **Load** | BigQuery | Clean analytical tables ready for BI consumption |
-| **Visualise** | Looker Studio | 5-page interactive dashboard |
+| **Visualise** | Data Studio | 5-page interactive dashboard |
 
 ---
 
