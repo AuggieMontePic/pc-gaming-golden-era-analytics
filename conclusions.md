@@ -17,7 +17,7 @@ The answer surprised nobody and confirmed something everybody already felt but c
 
 The composite Golden Era Index, built from five weighted pillars and normalised across every year from 1993 to 2024, crowned **the year 2000** as the peak of PC gaming quality.
 
-The Pre-Steam Peak era (2000–2002) ranks first across all nine eras in the index — not because of one extraordinary game but because of extraordinary depth. Baldur's Gate II: Shadows of Amn, Deus Ex, Diablo II, The Sims, Planescape: Torment, and Morrowind all emerged within a three-year window. A concentration of landmark titles that no era before or since has replicated.
+The Pre-Steam Peak era (2000–2002) ranks first across all nine eras in the index — not because of one extraordinary game but because of extraordinary depth. Baldur's Gate II: Shadows of Amn, Deus Ex, Diablo II, The Sims, Counter-Strike, and Morrowind all emerged within a three-year window. A concentration of landmark titles that no era before or since has replicated.
 
 What makes this finding credible is what the index was measuring. Not just peak scores — any year with one 98-rated game could game a simple average. The index weighted the percentage of games clearing the 80+ threshold most heavily (30%), meaning the year 2000 didn't win because of one perfect game. It won because it produced more great games per year than any other period in the study window.
 
