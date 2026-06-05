@@ -1,7 +1,7 @@
 # PC Gaming Golden Era Analytics
 
 **Author:** AuggieMontePic
-**Tools:** BigQuery SQL | Looker Studio | Google Cloud
+**Tools:** BigQuery SQL | Data Studio | Google Cloud
 **Datasets:** [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset) | [Metacritic PC Scores](https://www.kaggle.com/datasets/henrylin03/metacritic-games-user-reviews-and-metascores)
 
 ---
@@ -25,7 +25,7 @@ This is a technical showcase project demonstrating end-to-end analytics capabili
 
 ## Dashboard
 
-**5-page Looker Studio report — PC Gaming Golden Era Analytics**
+**5-page Data Studio report — PC Gaming Golden Era Analytics**
 
 | Page | Title | Source Table | Central Question |
 |------|-------|-------------|-----------------|
@@ -116,7 +116,7 @@ The Pre-Steam Peak era (2000–2002) ranked first in the composite Golden Era In
 ## Tools & Technologies
 
 - **Google BigQuery** — Data warehouse, SQL transformation, table materialisation
-- **Looker Studio** — 5-page interactive dashboard
+- **Data Studio** — 5-page interactive dashboard
 - **Google Cloud Platform** — Cloud infrastructure
 
 ---
@@ -131,4 +131,4 @@ The Pre-Steam Peak era (2000–2002) ranked first in the composite Golden Era In
 ---
 
 *Datasets: [Steam Games on Kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset) | [Metacritic on Kaggle](https://www.kaggle.com/datasets/henrylin03/metacritic-games-user-reviews-and-metascores)*
-*Tools: Google BigQuery · Looker Studio · Google Cloud Platform*
+*Tools: Google BigQuery · Data Studio · Google Cloud Platform*
