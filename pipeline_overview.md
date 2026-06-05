@@ -50,7 +50,7 @@ A production-style data pipeline built on two Kaggle datasets, demonstrating the
 ┌─────────────────────────────────────────────────────────────┐
 │                       VISUALISE                             │
 │                                                             │
-│   Looker Studio — 5-page PC Gaming Golden Era dashboard     │
+│   Data Studio — 5-page PC Gaming Golden Era dashboard     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -186,7 +186,7 @@ All tables apply the `critic_score >= 75` base filter. `rpt_hall_of_kings` and `
 
 ## Visualise
 
-A single Looker Studio report consumes all four reporting tables via live BigQuery connector.
+A single Data Studio report consumes all four reporting tables via live BigQuery connector.
 
 | Page | Title | Source Table | Central Question |
 |------|-------|-------------|-----------------|
@@ -226,4 +226,4 @@ A single Looker Studio report consumes all four reporting tables via live BigQue
 *Dataset sources:*
 *Steam: [Kaggle — fronkongames](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)*
 *Metacritic: [Kaggle — henrylin03](https://www.kaggle.com/datasets/henrylin03/metacritic-games-user-reviews-and-metascores)*
-*Tools: Google BigQuery · Looker Studio · Google Cloud Platform*
+*Tools: Google BigQuery · Data Studio · Google Cloud Platform*
