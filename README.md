@@ -35,8 +35,6 @@ This is a technical showcase project demonstrating end-to-end analytics capabili
 | 4 | Timeless or Trendy? | `rpt_game_analysis` | Do older games score higher? Do critics and players agree? |
 | 5 | The Legends | `rpt_game_analysis` | Every great game (80+), remembered |
 
-Link to live dashboard: https://datastudio.google.com/reporting/56a1a81a-205b-4dc2-a0ed-5b645098a958
-
 ---
 
 ## SQL Queries
